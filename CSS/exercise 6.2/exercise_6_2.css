@@ -1,5 +1,5 @@
 html, body {
-    background-color: gray; /* Replace 'yourcolor' with the color you want, e.g., 'red', '#RRGGBB', or 'rgb(R, G, B)' */
+    background-color: gray; 
     margin: 0; /* Remove default margin for the body */
     padding: 0; /* Remove default padding for the body */
     height: 100%; /* Ensure the background color covers the full viewport height */
