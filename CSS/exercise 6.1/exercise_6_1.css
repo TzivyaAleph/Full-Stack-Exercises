@@ -1,17 +1,15 @@
-#a{
+.red-thin-border-big-font{
     border: 1px solid red;
     font-size: larger;
     border-radius: 10px;
 }
-#b{
+.bold-italic{
     font-style: italic;
     font-weight: bold;
-    font-size: larger;
 }
-#c{
-    background-color: black;
-    color:white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+.shadow{
+    /* background-color: black; */
+    color:black;
+    text-shadow: 10px 10px 5px rgb(0, 0, 0);
     font-family: monospace;
-    font-size: larger;
 }
