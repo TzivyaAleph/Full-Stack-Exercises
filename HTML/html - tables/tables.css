@@ -1,0 +1,19 @@
+table{
+    width: 500px; /*the space of each element*/
+    border-collapse: collapse;
+    border: 1px solid blueviolet;
+}
+th ,td{
+    border: 1px solid blueviolet;
+}
+td:nth-child(odd){
+    background-color: bisque;
+}
+tr:first-child{
+    font-weight: bold;
+}
+th{
+    font-size: 50px;
+    color: purple;
+    font-style: italic;
+}

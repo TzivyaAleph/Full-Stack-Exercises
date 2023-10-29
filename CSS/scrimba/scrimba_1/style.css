@@ -1,0 +1,13 @@
+section > b, div > b {
+    color: blueviolet;
+}
+
+.box{
+    border: 2px solid;
+    background-color: white;
+    display: inline-block;
+}
+
+.box > p > b{
+    color: gold;
+}
